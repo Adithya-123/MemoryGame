@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="P1_0">P1:0</string>
+    <string name="P2_0">P2:0</string>
+    <string name="p1_0">P1:0</string>
+    <string name="p2_0">P2:0</string>
+</resources>
